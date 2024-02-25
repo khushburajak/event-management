@@ -29,8 +29,8 @@ Welcome to Evento, the Event Management System application for both Common Users
 ```bash
 Clone the repository:
 
-git clone https://github.com/your-username/evento-react-app.git
-cd evento-react-app
+git clone https://github.com/khushburajak/event-management.git
+cd event-management
 
 ```
 ### Install dependencies:
