@@ -129,7 +129,7 @@ const SideDrawer = (props) => {
         />
 
         <Typography variant="subtitle1" component="h3">
-          Milan Yadav
+        khushbu Rajak
         </Typography>
       </UserCardStyle>
 
